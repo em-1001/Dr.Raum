@@ -2,7 +2,11 @@
 
 vision transformer  
 TransU-Net   
-UNETR : https://arxiv.org/abs/2103.10504
+
+1. Transformer : https://arxiv.org/abs/1409.0473
+2. 3D U-net : https://arxiv.org/abs/1606.06650
+3. Vision Transformer : https://arxiv.org/abs/2010.11929
+4. UNETR : https://arxiv.org/abs/2103.10504
 
 paper: https://arxiv.org/pdf/2407.08470
 
