@@ -10,6 +10,8 @@ ResU-Net: https://arxiv.org/pdf/1904.00592
 
 attention U-Net: https://arxiv.org/pdf/1804.03999
 
+trans U-net ipynb : https://github.com/elcaiseri/Vision-Transformer-Segmentation/blob/main/hubmap-pytorch-vit-segmentation-train.ipynb
+
 1. 파이/e
 2. 25/6
 3. e^2/2 - 3/(4e^2) + 5/(4e^4)
