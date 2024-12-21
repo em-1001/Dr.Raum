@@ -1,7 +1,8 @@
 # Brain-Tumor-Segmentation
 
 vision transformer  
-TransU-Net 
+TransU-Net   
+UNETR : https://arxiv.org/abs/2103.10504
 
 paper: https://arxiv.org/pdf/2407.08470
 
