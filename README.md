@@ -16,11 +16,4 @@ attention U-Net: https://arxiv.org/pdf/1804.03999
 
 trans U-net ipynb : https://github.com/elcaiseri/Vision-Transformer-Segmentation/blob/main/hubmap-pytorch-vit-segmentation-train.ipynb
 
-1. 파이/e
-2. 25/6
-3. e^2/2 - 3/(4e^2) + 5/(4e^4)
-4. 
-5. 1
-6. a = 5/2 b = 1
-7. 파이^2/12 + 1/2 -ln2
-8. 
+Data augmentation for 3D medical image : https://kimbg.tistory.com/32?category=578326
