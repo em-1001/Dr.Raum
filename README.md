@@ -17,3 +17,7 @@ attention U-Net: https://arxiv.org/pdf/1804.03999
 trans U-net ipynb : https://github.com/elcaiseri/Vision-Transformer-Segmentation/blob/main/hubmap-pytorch-vit-segmentation-train.ipynb
 
 Data augmentation for 3D medical image : https://kimbg.tistory.com/32?category=578326
+
+# pytorch 
+https://www.kaggle.com/code/usharengaraju/tensorflow-unetr-w-b  
+https://github.com/tamasino52/UNETR/blob/main/unetr.py
