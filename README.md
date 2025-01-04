@@ -22,5 +22,7 @@ Data augmentation for 3D medical image : https://kimbg.tistory.com/32?category=5
 https://www.kaggle.com/code/usharengaraju/tensorflow-unetr-w-b  
 https://github.com/tamasino52/UNETR/blob/main/unetr.py
 
+https://kimbg.tistory.com/33 ㄹㅈㄷ 레퍼런스
+
 # dataset 
 https://www.kaggle.com/code/zeeshanlatif/brain-tumor-segmentation-using-u-net
